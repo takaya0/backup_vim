@@ -1,0 +1,38 @@
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+[[plugins]]
+repo = 'Shougo/neosnippet-snippets'
+[[plugins]]
+#color
+repo = 'Haron-Prime/Antares'
+
+[[plugins]]
+#color2
+repo = 'jonathanfilip/vim-lucius' 
+
+[[plugins]]
+#補完とか
+repo = 'kana/vim-smartinput'
+
+[[plugins]]
+#templatefifle
+repo = 'mattn/sonictemplate-vim'
+
+#{{{ markdown preview
+[[plugins]]
+repo = 'plasticboy/vim-markdown'
+
+[[plugins]]
+repo = 'kannokanno/previm'
+
+[[plugins]]
+repo = 'tyru/open-browser.vim'
+
+#}}}
+[[plugins]]
+repo = 'scrooloose/nerdtree'
+
+[[plugins]]
+repo = 'thinca/vim-quickrun'
+
